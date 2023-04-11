@@ -1,0 +1,36 @@
+{
+  "source": "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Views/AddNewTaskView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New Task"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      },
+      {
+        "comment": "",
+        "key": "Task Details"
+      },
+      {
+        "comment": "",
+        "key": "Task Title"
+      },
+      {
+        "comment": "",
+        "key": "Priority"
+      },
+      {
+        "comment": "",
+        "key": "Due Date"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "cb24804213e4d3c49751d9724a36f98d2b05cb1f642154d16c01c4832a401f14"
+build_start_time: [1680451271, 930811882]
+build_end_time: [1680451272, 503020048]
+inputs:
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/Task+CoreDataClass.swift": [1680172472, 108218669]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/Task+CoreDataProperties.swift": [1680172472, 109337806]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Services/CoreDataService.swift": [1680173937, 917384624]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Services/TaskService.swift": [1680170277, 888778686]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Sort.swift": [1680177989, 753668785]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/TaskModel.swift": [1680173296, 183096885]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/TaskPriority.swift": [1680179636, 437452793]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/ToDoCombineAppApp.swift": [1680035649, 272328138]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Views/AddNewTaskView.swift": [1680173796, 881693363]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Views/EditTaskView.swift": [1680175472, 68327426]
+  "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Views/ListContentView.swift": [1680179963, 467143535]

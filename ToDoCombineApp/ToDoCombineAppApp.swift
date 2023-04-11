@@ -8,10 +8,12 @@
 import SwiftUI
 
 @main
-struct ToDoCombineAppApp: App {
+struct TodoListAppApp: App {
+    
+    // MARK: - Main rendering function
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListContentView()
         }
     }
 }

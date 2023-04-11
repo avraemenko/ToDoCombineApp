@@ -1,0 +1,36 @@
+{
+  "source": "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Views/EditTaskView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Edit Task"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      },
+      {
+        "comment": "",
+        "key": "Priority"
+      },
+      {
+        "comment": "",
+        "key": "Due Date"
+      },
+      {
+        "comment": "",
+        "key": "Task title"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      }
+    ]
+  },
+  "version": 1
+}

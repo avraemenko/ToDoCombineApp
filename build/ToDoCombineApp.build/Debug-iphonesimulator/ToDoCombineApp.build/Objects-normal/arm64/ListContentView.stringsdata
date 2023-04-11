@@ -1,0 +1,40 @@
+{
+  "source": "/Users/katrin/Documents/RXSwift/ToDoCombineApp/ToDoCombineApp/Views/ListContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "TODO"
+      },
+      {
+        "comment": "",
+        "key": "Delete"
+      },
+      {
+        "comment": "",
+        "key": "Edit"
+      },
+      {
+        "comment": "",
+        "key": "Due: %@"
+      },
+      {
+        "comment": "",
+        "key": "Due Date"
+      },
+      {
+        "comment": "",
+        "key": "Priority"
+      },
+      {
+        "comment": "",
+        "key": "Default"
+      },
+      {
+        "comment": "",
+        "key": "Sort"
+      }
+    ]
+  },
+  "version": 1
+}
